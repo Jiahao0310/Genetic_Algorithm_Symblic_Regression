@@ -11,6 +11,6 @@ Genetic Algorithm Solve Symbolic Regression
 
 
 
+[MECSEE4510_HW02_Jiahao_Wu_10202020.pdf](https://github.com/Jiahao0310/Genetic_Algorithm_Symblic_Regression/files/5993059/MECSEE4510_HW02_Jiahao_Wu_10202020.pdf)
 
-[MECSEE4510_HW1_Jiahao_Wu_09292020.pdf](https://github.com/Jiahao0310/Genetic_Algorithm_Symblic_Regression/files/5993055/MECSEE4510_HW1_Jiahao_Wu_09292020.pdf)
 
