@@ -5,4 +5,5 @@ Genetic Algorithm Solve Symbolic Regression
 
 
 
-![image](https://user-images.githubusercontent.com/69972187/108152350-ded03080-70a6-11eb-903e-c35c91906e4d.png)
+[MECSEE4510_HW1_Jiahao_Wu_09292020.pdf](https://github.com/Jiahao0310/Genetic_Algorithm_Symblic_Regression/files/5993055/MECSEE4510_HW1_Jiahao_Wu_09292020.pdf)
+
